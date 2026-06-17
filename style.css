@@ -1,7 +1,7 @@
 body {
     margin: 0; /* Убирает отступы по краям */
     background-color: #121212; /* Темный фон */
-    color: black; /* Белый цвет текста */
+    color: white; /* Белый цвет текста */
     font-family: Bebasbolt; /* Используемый шрифт */
     text-align: center; /* Выравнивание по центру */
 }
