@@ -6,16 +6,13 @@ body {
     text-align: center; 
 }
 
-
 header {
     padding: 20px;
 }
 
-
 h1 {
     margin: 0;
     color: white; 
-
 
 img {
     width: 80%; 
@@ -23,7 +20,6 @@ img {
     margin-top: 20px; 
     border-radius: 10px; 
 }
-
 
 p {
     width: 70%; 
